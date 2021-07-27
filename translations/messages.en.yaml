@@ -1,0 +1,6 @@
+sylius:
+    form:
+        login:
+            username: UsErNaMe
+        customer:
+            email: Email

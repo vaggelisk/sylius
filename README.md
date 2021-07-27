@@ -38,6 +38,13 @@ $ php bin/console server:start
 $ open http://localhost:8000/
 ```
 
+Credentials of Admin User at localhost are
+```
+sylius
+sylius
+``` 
+
+
 Troubleshooting
 ---------------
 
