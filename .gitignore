@@ -41,6 +41,12 @@
 /.idea/workspace.xml
 .idea/workspace.xml
 .idea/*
+a/.idea/modules.xml
+/a/.idea/modules.xml
+./a/.idea/modules.xml
+b/.idea/modules.xml
+/b/.idea/modules.xml
+./b/.idea/modules.xml
 ###< idea ###
 
 ###> gitignore ###
