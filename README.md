@@ -57,6 +57,11 @@ $ tail -f var/log/dev.log
 
 If you are using the supplied Vagrant development environment, please see the related [Troubleshooting guide](etc/vagrant/README.md#Troubleshooting) for more information.
 
+Second Channel (greek)
+------------
+If you want to add a sxcond greek store/channel, you have to declare the domain at Admin Panel (admin/channels/{%id}/edit) and be careful because there is a problem with cookies, symfony debuger, mozilla etc etc 
+
+
 Contributing
 ------------
 
