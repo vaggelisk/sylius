@@ -1,0 +1,25 @@
+sylius:
+    ui:
+        edit_your_items_apply_coupon_or_proceed_to_the_checkout: Επεξεργαστείτε τα στοιχεία σας, εξαργυρώστε κουπόνια ή προχωρήστε στην ολοκλήρωση της αγοράς σας
+        your_shopping_cart: Το καλάθι σας
+        order_total: Σύνολο Παραγγελίας
+        view_more: Δες λεπτομέρειες
+        privacy_policy: Πολιτική Ιδιωτικότητας
+        returns_policy: Πολιτική Επιστροφών
+        terms_and_conditions: Όροι και Προυποθέσεις
+        reviews: Σχόλια
+        unavailable: Μη Διαθέσιμο
+        your_store: Μέλι Εύβοιας
+        no_label: Όχι
+        yes_label: Ναι
+        image_album_label: Εικόνα %1 από %2
+        update_cart: Ανανέωση Καλαθιού
+        summary: Σύνοψη
+        taxes_total: Φόροι
+        shipping_estimated_cost: Μεταφορικά
+        subtotal: Ποσό
+        sign_in: Σύνδεση
+        payment: Πληρωμή
+        need_assistance: Χρειάζεστε βοήθεια;
+        review_and_confirm_your_order: Ελέγξτε και επιβεβαιώστε την παραγγελία σας
+        register: Εγγραφή

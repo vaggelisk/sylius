@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad41651e-1122-4f7e-b3a0-1a3362602d8e" name="Default" comment="" />
+    <list default="true" id="ad41651e-1122-4f7e-b3a0-1a3362602d8e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/translations/flashes.el.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translations/messages.en.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/translations/messages.en.yaml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,13 +17,20 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.7639485">
+    <splitter split-orientation="horizontal" split-proportion="0.36373392">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="services.yaml" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/config/services.yaml">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file leaf-file-name="messages.el.yaml" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/translations/messages.el.yaml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-225" />
+                <state relative-caret-position="360">
+                  <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+                </state>
               </provider>
             </entry>
           </file>
@@ -32,18 +43,22 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="CODEOWNERS" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/.github/CODEOWNERS">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-          <file leaf-file-name="easy-coding-standard.yml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/easy-coding-standard.yml">
+          <file leaf-file-name="messages.en.yaml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/translations/messages.en.yaml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="30">
-                  <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+                <state relative-caret-position="90">
+                  <caret line="6" selection-start-line="6" selection-end-line="6" />
                 </state>
               </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="routes.yaml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/config/routes.yaml">
+              <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
           <file leaf-file-name="Channel.php" pinned="false" current-in-tab="false">
@@ -62,34 +77,52 @@
               <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
-          <file leaf-file-name="web_profiler.yaml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/config/routes/dev/web_profiler.yaml">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-          <file leaf-file-name="sylius_shop.yaml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/config/routes/sylius_shop.yaml">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-          <file leaf-file-name="bundles.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/config/bundles.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-675" />
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="15">
+                    <caret line="53" column="2" selection-start-line="53" selection-start-column="2" selection-end-line="53" selection-end-column="26" />
+                  </first_editor>
+                  <second_editor />
+                </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="routes.yaml" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/config/routes.yaml">
+          <file leaf-file-name="ExchangeRate.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Entity/Currency/ExchangeRate.php">
               <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="ProductInterface.php" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/vendor/sylius/sylius/src/Sylius/Component/Product/Model/ProductInterface.php">
+          <file leaf-file-name="flashes.el.yaml" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/translations/flashes.el.yaml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="30">
+                  <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="security.el.xlf" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/translations/security.el.xlf">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="75">
+                  <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="messages.en.yaml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/translations/messages.en.yaml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="75">
+                  <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="messages+intl-icu.el.xlf" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/translations/messages+intl-icu.el.xlf">
               <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
@@ -111,6 +144,9 @@
       <find>sylius.factory.</find>
       <find>idea</find>
       <find>ProductFactory</find>
+      <find>εφαρμόστε</find>
+      <find>your shopping cart</find>
+      <find>Jeans size</find>
     </findStrings>
     <replaceStrings>
       <replace>gitignore</replace>
@@ -132,8 +168,11 @@
         <option value="$PROJECT_DIR$/public/assets/shop/js/app.js" />
         <option value="$PROJECT_DIR$/easy-coding-standard.yml" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/translations/messages.en.yaml" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/config/routes.yaml" />
+        <option value="$PROJECT_DIR$/translations/messages.en.yaml" />
+        <option value="$PROJECT_DIR$/translations/flashes.el.yaml" />
+        <option value="$PROJECT_DIR$/translations/messages.el.yaml" />
       </list>
     </option>
   </component>
@@ -409,7 +448,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -474,6 +512,13 @@
               <item name="sylius" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Entity" type="462c0819:PsiDirectoryNode" />
+              <item name="Currency" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sylius" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sylius" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Entity" type="462c0819:PsiDirectoryNode" />
               <item name="Locale" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -503,6 +548,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -552,12 +598,13 @@
       <workItem from="1624179047600" duration="4364000" />
       <workItem from="1624720951376" duration="262000" />
       <workItem from="1625153135134" duration="4031000" />
-      <workItem from="1627403739308" duration="12144000" />
+      <workItem from="1627403739308" duration="17285000" />
+      <workItem from="1627455797550" duration="3354000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44747000" />
+    <option name="totallyTimeSpent" value="53242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -569,10 +616,10 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.48863637" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.19967532" />
       <window_info anchor="right" id="Remote Host" order="3" />
       <window_info id="Gulp" order="2" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2585521" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26252982" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -599,23 +646,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vendor/sylius/sylius/src/Sylius/Bundle/OrderBundle/Form/Type/CartType.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/sylius/sylius/src/Sylius/Bundle/OrderBundle/Controller/OrderController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2145">
-          <caret line="162" column="96" selection-start-line="162" selection-start-column="96" selection-end-line="162" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/packages/test_cached/fos_rest.yaml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/sylius/sylius/src/Sylius/Bundle/AdminApiBundle/Resources/config/routing/cart.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -778,30 +808,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Entity/Shipping/ShippingMethod.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#65#97#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="208">
-            <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/translations/messages.en.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Entity/Shipping/ShippingCategory.php">
       <provider selected="true" editor-type-id="text-editor" />
@@ -810,9 +817,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1530" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/translations/messages+intl-icu.el.xlf">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/config/services_test.yaml">
       <provider selected="true" editor-type-id="text-editor">
@@ -828,9 +832,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/translations/security.el.xlf">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/sylius/sylius/src/Sylius/Component/Product/Factory/ProductFactory.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -841,27 +842,26 @@
     <entry file="file://$PROJECT_DIR$/vendor/sylius/sylius/src/Sylius/Component/Product/Model/ProductInterface.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/services.yaml">
+    <entry file="file://$PROJECT_DIR$/config/bundles.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225" />
+        <state relative-caret-position="-675" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/config/routes/sylius_shop.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.github/CODEOWNERS">
+    <entry file="file://$PROJECT_DIR$/config/routes/dev/web_profiler.yaml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/easy-coding-standard.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Entity/Channel/Channel.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -875,19 +875,66 @@
     <entry file="file://$PROJECT_DIR$/src/Entity/Channel/ChannelPricing.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes/dev/web_profiler.yaml">
+    <entry file="file://$PROJECT_DIR$/src/Entity/Currency/ExchangeRate.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes/sylius_shop.yaml">
+    <entry file="file://$PROJECT_DIR$/translations/messages+intl-icu.el.xlf">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/bundles.php">
+    <entry file="file://$PROJECT_DIR$/translations/security.el.xlf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-675" />
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.yaml">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="53" column="2" selection-start-line="53" selection-start-column="2" selection-end-line="53" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/CODEOWNERS">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/services.yaml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/translations/messages.en.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/translations/flashes.el.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/translations/messages.el.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
